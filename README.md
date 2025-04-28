@@ -1,2 +1,2 @@
-# nbt-regional.xml
+# HOT IPTV NORTH
 DTV
