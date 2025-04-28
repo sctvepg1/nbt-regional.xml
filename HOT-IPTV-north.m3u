@@ -2,12 +2,12 @@
 
 # =======================================================
 # Playlist Name: HOT-IPTV NORTH BY Yanapat (TEST)
-# Last Update: 2025-04-28 18:00:00 UTC+07 ICT
+# Last Update: 2025-04-28 14:13:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75)" tvg-name="MVTV ท้องถิ่นไทย (75)" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png", MVTV (75)
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="CNA" tvg-name="CNA" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT HD" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://nbt2hd.prd.go.th/th/file/get/file/20250426cd13a0bc7debcb7df74d2f8c3d183858103515.jpg", NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -21,6 +21,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 
-#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png", TV5 HD
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.png", TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+
+#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="BBC News" tvg-name="BBC News" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUifJIy6D1P8_9U9trcjMcORxFv2ta7LrxQQUtF-X2LTMq1Ogc51I444&s=10", BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
