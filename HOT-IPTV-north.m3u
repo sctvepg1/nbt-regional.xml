@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: HOT-IPTV NORTH BY Yanapat (TEST)
-# Last Update: 2025-04-29 12:20:00 UTC+07 ICT
+# Last Update: 2025-04-29 12:26:00 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="CNA" tvg-name="CNA" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/375px-CNA_new_logo.svg.png", CNA
@@ -111,7 +111,7 @@ https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="DOPAChannel.th" tvg-logo="https://imgur.com/Z9vxti4.png" group-title="News",DOPA Channel
+#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="DOPAChannel.th" tvg-logo="https://imgur.com/Z9vxti4.png" group-title="News",DOPA Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
 
 #EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png", MONO29
@@ -145,9 +145,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 #EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png", PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
-
-#EXTINF:-1 group-title="Radio" radio="true",Radio Thailand BKK 105 MHz
-https://cdn-edge-ott.prd.go.th/radio_edge/7dd9-bcac-b212-83c5-a2e1.stream_aac/chunklist_w993890113_tkcHJkZW5kdGltZT0xNzQ0MTI5OTgwJnByZHN0YXJ0dGltZT0xNzQ0MDQzNTIwJnByZGhhc2g9aG5MV29mNDVTWHZBOGtXRnVmcmY0Rlk2Q1VhLTJxeDE2akxMQlNrdjlSST0=.m3u8?token=true&aes=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hpMiMi-JBzCw5V4dtdzFsbErhsuP7rjO-qwQ47xlwH3gcu2dRMnGJiCF&s=10" group-title="Radio" radio="true",Cool Fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
