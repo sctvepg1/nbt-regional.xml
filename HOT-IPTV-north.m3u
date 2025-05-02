@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: Digital TV NORTH BY YANAPAT
-# Last Update: 2025-05-02 16:09:00 UTC+07 ICT
+# Last Update: 2025-05-02 20:30:00 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1, DTT 5
@@ -21,7 +21,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 
-#EXTINF:-1 tvg-chno="5" ch-number="5", TV5 HD
+#EXTINF:-1 tvg-chno="5" ch-number="5" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.png", TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
@@ -29,7 +29,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
 
-#EXTINF:-1 tvg-chno="7" ch-number="7", T Sports 7
+#EXTINF:-1 tvg-chno="7" ch-number="7" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png", T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
@@ -41,11 +41,11 @@ https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
 
-#EXTINF:-1 tvg-chno="10" ch-number="10", TPTV
+#EXTINF:-1 tvg-chno="10" ch-number="10" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thai_Parliament_TV_Logo.jpg/330px-Thai_Parliament_TV_Logo.jpg", TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 
-#EXTINF:-1 tvg-chno="11" ch-number="11", NBT-NORTH
+#EXTINF:-1 tvg-chno="11" ch-number="11" group-title="Digital TV" tvg-logo="https://i.imgur.com/fbnl8ob.jpeg", NBT-NORTH
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
 
 #EXTINF:-1, DTT 12
@@ -111,8 +111,8 @@ https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-#EXTINF:-1 tvg-chno="28" ch-number="28", MONO29 ENG
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
+#EXTINF:-1 tvg-chno="28" ch-number="28", DTT 28
+https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
 
 #EXTINF:-1 tvg-chno="29" ch-number="29", MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -126,7 +126,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
-#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/768px-Thairath_TV32.svg.png", Thairath TV
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png", Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
@@ -134,7 +134,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin" tvg-name="Amarin" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png", Amarin TV HD
+#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin" tvg-name="Amarin" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Amarin_TV_logo.png", Amarin TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
@@ -146,7 +146,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-#EXTINF:-1 tvg-chno="37" ch-number="37" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9d8sTjE7_Ak6XDGgNepbZ0AGUnc0skhSnUQCVGPvqVNQICxDCIGbKVYsJ&s=10",CBS News
+#EXTINF:-1 tvg-chno="37" ch-number="37" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9d8sTjE7_Ak6XDGgNepbZ0AGUnc0skhSnUQCVGPvqVNQICxDCIGbKVYsJ&s=10", CBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -154,9 +154,29 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
-#EXTINF:-1 tvg-chno="39" ch-number="39" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png",CGTN
+#EXTINF:-1 tvg-chno="39" ch-number="39" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:-1 tvg-chno="40" ch-number="40" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuLGc9y5Bi18tFzKmcIojw3ZXe1YGQPJ_aQ&s", NEWS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://news1.live14.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 tvg-chno="41" ch-number="41" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/330px-Euronews_2022.svg.png", Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="42" ch-number="42" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hBwoWvcsW8n79z80OEw7advHa1dftkXRTg&s", Bloomberg TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="43" ch-number="43" group-title="News" tvg-logo="http://www.ezlink.ca/images/channel%20logos/BLOOMBERG-tv-LOGO.png", Bloomberg TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="44" ch-number="44" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHR3-bc-hwfzhYFO0ozc-sa3Opk5p_eiRd3eqWW-Sy4jOaQM1JqoDfNoR&s=10", Bloomberg TV Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hpMiMi-JBzCw5V4dtdzFsbErhsuP7rjO-qwQ47xlwH3gcu2dRMnGJiCF&s=10" group-title="Radio" radio="true",Cool Fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
