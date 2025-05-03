@@ -5,7 +5,7 @@
 # Last Update: 2025-05-03 16:20:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="002" ch-number="2" group-title="Digital TV" tvg-logo="https://nbt2hd.prd.go.th/cms/s290/u1018/109116.png", NBT HD
+#EXTINF:-1 tvg-chno="002" ch-number="2" group-title="Digital TV" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/01/NBT-2HD-Logo-2025.png", NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
@@ -115,17 +115,9 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
-#EXTINF:-1 tvg-chno="046" ch-number="46" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hBwoWvcsW8n79z80OEw7advHa1dftkXRTg&s", Bloomberg TV+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="047" ch-number="47" group-title="News" tvg-logo="http://www.ezlink.ca/images/channel%20logos/BLOOMBERG-tv-LOGO.png", Bloomberg TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="048" ch-number="48" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHR3-bc-hwfzhYFO0ozc-sa3Opk5p_eiRd3eqWW-Sy4jOaQM1JqoDfNoR&s=10", Bloomberg TV Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-chno="049" ch-number="49" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/450px-Russia-today-logo.svg.png", RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -135,7 +127,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://rt-rtd.rttv.com:443/dvr/rtdoc/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="089" ch-number="89" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Boomerang
+#EXTINF:-1 tvg-chno="089" ch-number="89" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/450px-Boomerang_2014_logo.svg.png", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
