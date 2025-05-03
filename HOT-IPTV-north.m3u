@@ -1,256 +1,235 @@
 #EXTM3U
 
 # =======================================================
-# Playlist Name: Digital TV NORTH BY YANAPAT
-# Last Update: 2025-05-03 10:38:00 UTC+07 ICT
+# Playlist Name: HOT IPTV NORTH BY YANAPAT
+# Last Update: 2025-05-03 16:20:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1, DTT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://nbt2hd.prd.go.th/cms/s290/u1018/109116.png", NBT HD
+#EXTINF:-1 tvg-chno="002" ch-number="2" group-title="Digital TV" tvg-logo="https://nbt2hd.prd.go.th/cms/s290/u1018/109116.png", NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
-#EXTINF:-1 tvg-chno="3" ch-number="3" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/500px-Thai_PBS_Logo_2016.svg.png", THAIPBS HD
+#EXTINF:-1 tvg-chno="003" ch-number="3" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/500px-Thai_PBS_Logo_2016.svg.png", THAIPBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
-#EXTINF:-1 tvg-chno="4" ch-number="4" group-title="Digital TV" tvg-logo="https://www.altv.tv/images/assets/logo.png", ALTV
+#EXTINF:-1 tvg-chno="004" ch-number="4" group-title="Digital TV" tvg-logo="https://www.altv.tv/images/assets/logo.png", ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 
-#EXTINF:-1 tvg-chno="5" ch-number="5" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.png", TV5 HD
+#EXTINF:-1 tvg-chno="005" ch-number="5" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.png", TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
-#EXTINF:-1, DTT 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="7" ch-number="7" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png", T Sports 7
+#EXTINF:-1 tvg-chno="007" ch-number="7" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png", T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
-#EXTINF:-1, DTT 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1, DTT 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="10" ch-number="10" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thai_Parliament_TV_Logo.jpg/330px-Thai_Parliament_TV_Logo.jpg", TPTV
+#EXTINF:-1 tvg-chno="010" ch-number="10" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thai_Parliament_TV_Logo.jpg/330px-Thai_Parliament_TV_Logo.jpg", TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 
-#EXTINF:-1 tvg-chno="11" ch-number="11" group-title="Digital TV" tvg-logo="https://i.imgur.com/fbnl8ob.jpeg", NBT-NORTH
+#EXTINF:-1 tvg-chno="011" ch-number="11" group-title="Digital TV" tvg-logo="https://i.imgur.com/fbnl8ob.jpeg", NBT-NORTH
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
 
-#EXTINF:-1, DTT 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1, DTT 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1, DTT 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1, DTT 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="16" ch-number="16" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/017349b0-a5c0-11ed-81fb-39ce5d470141_webp_original.png", TNN24
+#EXTINF:-1 tvg-chno="016" ch-number="16" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/017349b0-a5c0-11ed-81fb-39ce5d470141_webp_original.png", TNN24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
-#EXTINF:-1, DTT 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="18" ch-number="18" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png", JKN 18
+#EXTINF:-1 tvg-chno="018" ch-number="18" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png", JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
-#EXTINF:-1, DTT 19
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1, DTT 20
+#EXTINF:-1 tvg-chno="020" ch-number="20" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuLGc9y5Bi18tFzKmcIojw3ZXe1YGQPJ_aQ&s", NEWS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
+http://news1.live14.com/stream/news1_hi.m3u8
 
-#EXTINF:-1, DTT 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="22" ch-number="22" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nation_TV_Horizontal_Logo.svg/1200px-Nation_TV_Horizontal_Logo.svg.png", Nation TV
+#EXTINF:-1 tvg-chno="022" ch-number="22" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nation_TV_Horizontal_Logo.svg/1200px-Nation_TV_Horizontal_Logo.svg.png", Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 
-#EXTINF:-1 tvg-chno="23" ch-number="23" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png", Workpoint TV
+#EXTINF:-1 tvg-chno="023" ch-number="23" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png", Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
-#EXTINF:-1 tvg-chno="24" ch-number="24" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.png", True4U
+#EXTINF:-1 tvg-chno="024" ch-number="24" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.png", True4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
-#EXTINF:-1 tvg-chno="25" ch-number="25" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/b/bd/GMM_25_logo.svg/375px-GMM_25_logo.svg.png", GMM25
+#EXTINF:-1 tvg-chno="025" ch-number="25" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/b/bd/GMM_25_logo.svg/375px-GMM_25_logo.svg.png", GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
-#EXTINF:-1, DTT 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="27" ch-number="27" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.png", CH8
+#EXTINF:-1 tvg-chno="027" ch-number="27" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.png", CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-#EXTINF:-1 tvg-chno="28" ch-number="28", DTT 28
-https://test-streams.mux.dev/x36xhzz/url_6/193039199_mp4_h264_aac_hq_7.m3u8
-
-#EXTINF:-1 tvg-chno="29" ch-number="29" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO29
+#EXTINF:-1 tvg-chno="029" ch-number="29" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 
-#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT" tvg-name="MCOT" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png", 9MCOT HD
+#EXTINF:-1 tvg-chno="030" ch-number="30" tvg-id="MCOT" tvg-name="MCOT" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png", 9MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE" tvg-name="ONE" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png", ONE HD
+#EXTINF:-1 tvg-chno="031" ch-number="31" tvg-id="ONE" tvg-name="ONE" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png", ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
-#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png", Thairath TV
+#EXTINF:-1 tvg-chno="032" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png", Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
-#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", 3 HD
+#EXTINF:-1 tvg-chno="033" ch-number="33" tvg-id="3HD" tvg-name="3HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin" tvg-name="Amarin" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Amarin_TV_logo.png", Amarin TV HD
+#EXTINF:-1 tvg-chno="034" ch-number="34" tvg-id="Amarin" tvg-name="Amarin" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Amarin_TV_logo.png", Amarin TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
-#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD" tvg-name="7HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png", CH7 HD
+#EXTINF:-1 tvg-chno="035" ch-number="35" tvg-id="7HD" tvg-name="7HD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png", CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
-#EXTINF:-1 tvg-chno="036" tvg-id="PPTV" tvg-name="PPTV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/603px-PPTV_logo_2019.svg.png", PPTV HD
+#EXTINF:-1 tvg-chno="036" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/PPTV_logo_2019.svg/603px-PPTV_logo_2019.svg.png", PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-#EXTINF:-1 tvg-chno="039" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9d8sTjE7_Ak6XDGgNepbZ0AGUnc0skhSnUQCVGPvqVNQICxDCIGbKVYsJ&s=10", CBS News
+#EXTINF:-1 tvg-chno="038" ch-number"38" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9d8sTjE7_Ak6XDGgNepbZ0AGUnc0skhSnUQCVGPvqVNQICxDCIGbKVYsJ&s=10", CBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-chno="202" group-title="News" tvg-logo="https://n.vodafone.ie/content/gowingmyself/en/shop/tv/tv-channels/jcr:content/content/vf_grid_copy_copy_co/content-2/vf_image_copy_copy_567914285.img.full.medium.png/1694778903899.png", BBC News
+#EXTINF:-1 tvg-chno="039" ch-number="39" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-chno="040" ch-number="40" tvg-id="ABCNewsLive.us" group-title="News" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png",ABC News LIVE
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-chno="041" ch-number="41" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/954px-Aljazeera_eng.svg.png",AL Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-chno="042" ch-number="42" group-title="Kids & Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/31/a5aeb78c-c4db-474f-a5af-345cb9e2f5b5.png", Rama Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://ramach.ddns.net/live/ramalive/index.m3u8
+
+#EXTINF:-1 tvg-chno="046" ch-number="46" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hBwoWvcsW8n79z80OEw7advHa1dftkXRTg&s", Bloomberg TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="047" ch-number="47" group-title="News" tvg-logo="http://www.ezlink.ca/images/channel%20logos/BLOOMBERG-tv-LOGO.png", Bloomberg TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="048" ch-number="48" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHR3-bc-hwfzhYFO0ozc-sa3Opk5p_eiRd3eqWW-Sy4jOaQM1JqoDfNoR&s=10", Bloomberg TV Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-chno="049" ch-number="49" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/450px-Russia-today-logo.svg.png", RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="053" ch-number="53" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png",RT Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://rt-rtd.rttv.com:443/dvr/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-chno="089" ch-number="89" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-chno="090" ch-number="90" tvg-id="PBS Kids.us" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1280px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="091" ch-number="56" tvg-name="EBS KIDS" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/800px-EBS_KIDS.svg.png",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="092" ch-number="92" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="093" ch-number="93" group-title="Kids & Documentary" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="185" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-chno="020" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuLGc9y5Bi18tFzKmcIojw3ZXe1YGQPJ_aQ&s", NEWS1
+#EXTINF:-1 tvg-chno="186" ch-number="186" tvg-id="DLTV1" tvg-name="DLTV1" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png", DLTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://news1.live14.com/stream/news1_hi.m3u8
+https://cdn-live.dltv.ac.th/dltv01.m3u8
 
-#EXTINF:-1 tvg-chno="041" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/954px-Aljazeera_eng.svg.png",AL Jazeera
+#EXTINF:-1 tvg-chno="187" ch-number="187" tvg-id="DLTV2" tvg-name="DLTV2" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png", DLTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://cdn-live.dltv.ac.th/dltv02.m3u8
 
-#EXTINF:-1 tvg-chno="042" group-title="Kids & Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/31/a5aeb78c-c4db-474f-a5af-345cb9e2f5b5.png", Rama Channel
+#EXTINF:-1 tvg-chno="188" ch-number="188" tvg-id="DLTV3" tvg-name="DLTV3" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png", DLTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://ramach.ddns.net/live/ramalive/index.m3u8
+https://cdn-live.dltv.ac.th/dltv03.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-id="France 24" tvg-name="France 24" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png", France 24
+#EXTINF:-1 tvg-chno="189" ch-number="189" tvg-id="DLTV4" tvg-name="DLTV4" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png", DLTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-chno="190" ch-number="190" tvg-id="DLTV5" tvg-name="DLTV5" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png", DLTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-chno="191" ch-number="191" tvg-id="DLTV6" tvg-name="DLTV6" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png", DLTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-chno="192" ch-number="192" tvg-id="DLTV7" tvg-name="DLTV7" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png", DLTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-chno="193" ch-number="193" tvg-id="DLTV8" tvg-name="DLTV8" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png", DLTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-chno="194" ch-number="194" tvg-id="DLTV9" tvg-name="DLTV9" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png", DLTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-chno="195" ch-number="195" tvg-id="DLTV10" tvg-name="DLTV10" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png", DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-chno="196" ch-number="196" tvg-id="DLTV11" tvg-name="DLTV11" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png", DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-chno="197" ch-number="197" tvg-id="DLTV12" tvg-name="DLTV12" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png", DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-chno="198" ch-number="198" tvg-id="DLTV13" tvg-name="DLTV13" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png", DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-chno="199" ch-number="199" tvg-id="DLTV14" tvg-name="DLTV14" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png", DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-chno="200" ch-number="200" tvg-id="DLTV15" tvg-name="DLTV15" group-title="DLTV" tvg-logo="https://media-mvtv.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png", DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-chno="201" ch-number="201" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnb339sf-39igTplMgztHukF-GlNKY3QN-H44alWH_qHG8haLbx56PMg&s=10",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 tvg-chno="202" ch-number="202" group-title="News" tvg-logo="https://n.vodafone.ie/content/gowingmyself/en/shop/tv/tv-channels/jcr:content/content/vf_grid_copy_copy_co/content-2/vf_image_copy_copy_567914285.img.full.medium.png/1694778903899.png", BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+
+#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="France 24" tvg-name="France 24" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png", France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
 
-#EXTINF:-1 tvg-chno="204" tvg-id="CNA" tvg-name="CNA" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png", CNA
+#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="CNA" tvg-name="CNA" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
-#EXTINF:-1 tvg-chno="201" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnb339sf-39igTplMgztHukF-GlNKY3QN-H44alWH_qHG8haLbx56PMg&s=10",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-
-#EXTINF:-1 tvg-chno="046" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hBwoWvcsW8n79z80OEw7advHa1dftkXRTg&s", Bloomberg TV+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="047" group-title="News" tvg-logo="http://www.ezlink.ca/images/channel%20logos/BLOOMBERG-tv-LOGO.png", Bloomberg TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="048" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHR3-bc-hwfzhYFO0ozc-sa3Opk5p_eiRd3eqWW-Sy4jOaQM1JqoDfNoR&s=10", Bloomberg TV Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-chno="049" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/450px-Russia-today-logo.svg.png", RT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="205" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png", FOX Weather
+#EXTINF:-1 tvg-chno="205" ch-number="205" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png", FOX Weather
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-
-#EXTINF:-1 tvg-chno="40" tvg-id="ABCNewsLive.us" group-title="News" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png",ABC News LIVE
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-chno="041" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-chno="53" ch-number="53" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png",RT Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://rt-rtd.rttv.com:443/dvr/rtdoc/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-chno="54" ch-number="54" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-
-#EXTINF:-1 tvg-chno="55" ch-number="55" tvg-id="PBS Kids.us" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1280px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
- 
-#EXTINF:-1 tvg-chno="56" ch-number="56" tvg-name="EBS KIDS" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/800px-EBS_KIDS.svg.png",EBS Kids
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
- 
-#EXTINF:-1 tvg-chno="57" ch-number="57" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",Moonbug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-chno="58" ch-number=" 58" group-title="Kids & Documentary" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hpMiMi-JBzCw5V4dtdzFsbErhsuP7rjO-qwQ47xlwH3gcu2dRMnGJiCF&s=10" group-title="Radio" radio="true",Cool Fahrenheit
-https://coolism-web.cdn.byteark.com/;stream/1
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4yirbLN-HWj_BuDDZvef523NLPLlZ3v0SA&usqp=CAU" group-title="Radio" radio="true",BBC Radio 1
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjiD2HfKsNCJhXkiFhJXJBCJCNKbOgVyqE5e8bSRqbJtDcefI_XvI9Kwb&s=10" group-title="Radio" radio="true",BBC Radio 1 Dance
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_one_dance.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAn1VyVl0BgGPNPY0bXLB968lPFSMvzxncKGBY3SbzgBAazdrnjB9-clQt&s=10" group-title="Radio" radio="true",BBC Radio 1 Xtra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_1xtra.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboyMLN9cQiX_SZutp1YmTJCX1pz3D3XesSubD8raGGr_qWKF-8OwW2XIF&s=10" group-title="Radio" radio="true",BBC Radio 2
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_two.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDtKKFIsIC_9uOd8Y0-XSwpk9vYiiy1pVBwJrQO8TOS1AJQeB_bY7B4M&s=10" group-title="Radio" radio="true",BBC Radio 3
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_three.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYa32tvA2rfkcwOF08_sYwhEGiw9TXbX8uH5sBrEKdc7rOf4zhEnR2_I&s=10" group-title="Radio" radio="true",BBC Radio 4
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_fourfm.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6rgPsT1xCeHwvsoY1VP3tICKWuGtQliP1P4zaYXiokv3ZQ4sntQxjUIL&s=10" group-title="Radio" radio="true",BBC Radio 5 Live
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXGB0W07VFN4_q5ZfoT03nANZxHBd1Vi6rYhIqMnJ4nB6-WkcPqYt-hLm&s=10" group-title="Radio" radio="true",BBC Radio 6 Music
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_6music.m3u8
