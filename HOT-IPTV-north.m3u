@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: Digital TV NORTH BY YANAPAT
-# Last Update: 2025-05-02 23:55:00 UTC+07 ICT
+# Last Update: 2025-05-03 10:38:00 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1, DTT 5
@@ -197,13 +197,36 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="50" ch-number="50" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature
+#EXTINF:-1 tvg-chno="50" ch-number="50" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png", FOX Weather
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="51" ch-number="51" tvg-id="ABCNewsLive.us" group-title="News" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png",ABC News LIVE
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-chno="52" ch-number="52" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
+#EXTINF:-1 tvg-chno="53" ch-number="53" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png",RT Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://rt-rtd.rttv.com:443/dvr/rtdoc/playlist_4500Kb.m3u8
 
+#EXTINF:-1 tvg-chno="54" ch-number="54" group-title="Kids & Documentary" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
-
+#EXTINF:-1 tvg-chno="55" ch-number="55" tvg-id="PBS Kids.us" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1280px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="56" ch-number="56" tvg-name="EBS KIDS" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/800px-EBS_KIDS.svg.png",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="57" ch-number="57" group-title="Kids & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="58" ch-number=" 58" group-title="Kids & Documentary" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hpMiMi-JBzCw5V4dtdzFsbErhsuP7rjO-qwQ47xlwH3gcu2dRMnGJiCF&s=10" group-title="Radio" radio="true",Cool Fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1
