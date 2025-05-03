@@ -5,7 +5,7 @@
 # Last Update: 2025-05-03 16:20:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="002" tvg-id="NBT.th" group-title="Digital TV" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/01/NBT-2HD-Logo-2025.png", NBT HD
+#EXTINF:-1 tvg-chno="002" tvg-id="NBT 2 HD.th" group-title="Digital TV" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/01/NBT-2HD-Logo-2025.png", NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
@@ -210,15 +210,15 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="201" ch-number="201" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnb339sf-39igTplMgztHukF-GlNKY3QN-H44alWH_qHG8haLbx56PMg&s=10",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
-#EXTINF:-1 tvg-chno="202" ch-number="202" group-title="News" tvg-logo="https://n.vodafone.ie/content/gowingmyself/en/shop/tv/tv-channels/jcr:content/content/vf_grid_copy_copy_co/content-2/vf_image_copy_copy_567914285.img.full.medium.png/1694778903899.png", BBC News
+#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="BBC News.th" group-title="News" tvg-logo="https://n.vodafone.ie/content/gowingmyself/en/shop/tv/tv-channels/jcr:content/content/vf_grid_copy_copy_co/content-2/vf_image_copy_copy_567914285.img.full.medium.png/1694778903899.png", BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
-#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="France 24" tvg-name="France 24" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png", France 24
+#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="France 24.th" tvg-name="France 24" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png", France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
 
-#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="CNA" tvg-name="CNA" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png", CNA
+#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="Channel News Asia" tvg-name="CNA" group-title="News" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
