@@ -2,64 +2,21 @@
 
 # =======================================================
 # Playlist Name: HOT WORLD TV BY YANAPAT
-# Last Update: 2025-05-05 21:56:00 UTC+07 ICT
+# Last Update: 2025-05-17 19:54:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="Thai TV",NBT 11 Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
- 
-#EXTINF:-1 tvg-id="NBT11North.th" tvg-logo="https://imgur.com/XTFVUkP.png" group-title="Thai TV",NBT 11 North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
- 
-#EXTINF:-1 tvg-id="NBT11NorthEast.th" tvg-logo="https://imgur.com/4kwV5Sy.png" group-title="Thai TV",NBT 11 Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
- 
-#EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="https://imgur.com/4K22fqQ.png" group-title="Thai TV",NBT 11 South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-
-#EXTINF:-1 tvg-chno="005" ch-number="5" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/450px-Russia-today-logo.svg.png", RT
+#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png", TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 
-#EXTINF:-1 tvg-chno="006" ch-number="6" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png",RT Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://rt-rtd.rttv.com:443/dvr/rtdoc/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-chno="007" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png", CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-
-#EXTINF:-1 tvg-chno="008" ch-number="8" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnb339sf-39igTplMgztHukF-GlNKY3QN-H44alWH_qHG8haLbx56PMg&s=10",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-
-#EXTINF:-1 tvg-chno="009" ch-number="9" tvg-id="BBC News.th" group-title="News" tvg-logo="https://n.vodafone.ie/content/gowingmyself/en/shop/tv/tv-channels/jcr:content/content/vf_grid_copy_copy_co/content-2/vf_image_copy_copy_567914285.img.full.medium.png/1694778903899.png", BBC News
+#EXTINF:-1 tvg-chno="780" ch-number="780" tvg-id="BBC News.th" group-title="News" tvg-logo="https://n.vodafone.ie/content/gowingmyself/en/shop/tv/tv-channels/jcr:content/content/vf_grid_copy_copy_co/content-2/vf_image_copy_copy_567914285.img.full.medium.png/1694778903899.png", BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
-#EXTINF:-1 tvg-chno="010" ch-number="10" tvg-id="MVMall Plus (51)" tvg-name="MVMall Plus (51)" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png", MVMall Plus (51)
+#EXTINF:-1 tvg-chno="794" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png", CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy (58)" tvg-name="MVMall Healthy (58)" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png", MVMall Healthy (58)
+#EXTINF:-1 tvg-chno="795" ch-number="795" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/450px-Russia-today-logo.svg.png", RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge2a.v2h-cdn.com/mix_major/mix_major.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="012" ch-number="12" tvg-id="MVMall DD (59)" tvg-name="MVMall DD (59)" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg", MVMall DD (59)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="013" ch-number="13" tvg-id="MVMall Home (69)" tvg-name="MVMall Home (69)" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png", MVMall Home (69)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="014" ch-number="14" tvg-id="MVMall Trend" tvg-name="MVMall Trend" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/42_y_asRhutXew0MHlc71OyvfSd3VzI2Zg9oB.jpg", MVMall Trend
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="015" ch-number="15" tvg-id="MVMall Happy (65)" tvg-name="MVMall Happy (65)" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/69_y_FD5yRW1S6BqcGHEbZmKsepTMldijN0wv.jpg", MVMall Happy (65)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="016" ch-number="16" tvg-id="ไทบ้านทีวี" tvg-name="ไทบ้านทีวี" group-title="Thai TV" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png", ไทบ้านทีวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
