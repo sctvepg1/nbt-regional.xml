@@ -1,12 +1,12 @@
 #EXTM3U
 
 # =======================================================
-# Playlist Name: 5 TV PLUS+ (SOUTH) BY YANAPAT
-# Last Update: 2025-09-29 21:19:00 UTC+07 ICT
+# Playlist Name: 5 TV PLUS+ BY YANAPAT
+# Last Update: 2025-09-29 22:21:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 group-title="Entertainment",ITV3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC Two HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 #EXTINF:-1 group-title="Digital TV",NBT 2HD
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
@@ -20,8 +20,8 @@ https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV",TV5 HD
 https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",More4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#EXTINF:-1 group-title="Entertainment",BBC Three HD 
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 
 #EXTINF:-1 group-title="Digital TV",T Sports 7 
 https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
@@ -47,25 +47,25 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/play
 #EXTINF:-1 group-title="Digital TV",NBT-NORTHEAST
 https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="News and Sports",CBS News 24/7 
+#EXTINF:-1 group-title="News",CBS News 24/7 
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="Digital TV",TNN16
 https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="News and Sports",ABC News Live 
+#EXTINF:-1 group-title="News",ABC News Live 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="Digital TV",ช่อง 18
 https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="News and Sports",TOP NEWS
+#EXTINF:-1 group-title="News",TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="News and Sports",NEWS1
+#EXTINF:-1 group-title="News",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 group-title="News and Sports",CNA
+#EXTINF:-1 group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV",Nation TV
@@ -113,28 +113,46 @@ http://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV",PPTV HD
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment",ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 group-title="Entertainment",ITV3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ITV4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Channel Four
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8 
+
+#EXTINF:-1 group-title="Entertainment",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+
+#EXTINF:-1 group-title="Entertainment",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+
 #EXTINF:-1 group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="News",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
-#EXTINF:-1 group-title="News and Sports",France 24
+#EXTINF:-1 group-title="News",France 24
 https://edge2a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="News and Sports",SKY NEWS
+#EXTINF:-1 group-title="News",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 group-title="News and Sports",DW English
+#EXTINF:-1 group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="News and Sports",NHK World Japan
+#EXTINF:-1 group-title="News",NHK World Japan
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
-#EXTINF:-1 group-title="News and Sports",Global News
+#EXTINF:-1 group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
-#EXTINF:-1 group-title="News and Sports",Bloomberg
+#EXTINF:-1 group-title="News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 group-title="News",AL Jazeera
