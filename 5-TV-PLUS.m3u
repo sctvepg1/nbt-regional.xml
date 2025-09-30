@@ -113,7 +113,7 @@ http://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV",PPTV HD
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",ITV2
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/470px-ITV2_logo_2022.svg.png",ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
 #EXTINF:-1 group-title="Entertainment",ITV3
@@ -122,7 +122,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="Entertainment",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Channel Four
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/250px-Channel_4_Logo_2023.svg.png",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/400px-More4_logo_2018.svg.png",More4
@@ -131,7 +131,7 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/340px-Film4_logo_2018.svg.png",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Channel 5
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/1280px-Channel_5_2025.svg.png",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
 #EXTINF:-1 group-title="Entertainment",NBC Lx
