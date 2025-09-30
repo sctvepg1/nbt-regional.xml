@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: 5 TV PLUS+ (SOUTH) BY YANAPAT
-# Last Update: 2025-09-30 10:49:00 UTC+07 ICT
+# Last Update: 2025-09-30 11:26:00 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png",BBC Two HD
@@ -125,8 +125,11 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 group-title="Entertainment",Channel Four
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8 
 
-#EXTINF:-1 group-title="Entertainment",More4
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/400px-More4_logo_2018.svg.png",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/340px-Film4_logo_2018.svg.png",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 group-title="Entertainment",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
