@@ -1,11 +1,11 @@
 #EXTM3U
 
 # =======================================================
-# Playlist Name: 5 TV PLUS+ BY YANAPAT
-# Last Update: 2025-09-29 22:38:00 UTC+07 ICT
+# Playlist Name: 5 TV PLUS+ (SOUTH) BY YANAPAT
+# Last Update: 2025-09-30 10:49:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2022-12/BBC_Two_HD_0.png",BBC Two HD
+#EXTINF:-1 group-title="Entertainment",BBC Two HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 #EXTINF:-1 group-title="Digital TV",NBT 2HD
@@ -20,14 +20,14 @@ https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV",TV5 HD
 https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",BBC Three HD 
-https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC Three HD  & CBBC HD
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 #EXTINF:-1 group-title="Digital TV",T Sports 7 
 https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",NBC Lx
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC Four HD  & Cbeebies HD
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 #EXTINF:-1 group-title="Los Angeles TV",KNBC NEWS
 https://d368vp0qqzvkid.cloudfront.net/11603/88889710/hls/master.m3u8?ads.xumo_channelId=88889710a&ads.xumo_streamId=88889710&ads.nw=169843&ads.prof=169843%3Anbcu_ots_web_linear&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.channelName=NBCNLA&ads.csid=nbc_ots_alldevice_allos_web_knbc_livelinear_virtualchannel&ads.caid=NBCNLA&ads.afid=396653454&ads.sfid=23408323&ads.vip=211.218.0.200&ads.vcid=&ads._fw_nielsen_app_id=PE075FB87-C9AE-41D5-8B17-95C0E9301C8E&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Linux%253B%2520Android%252011%253B%2520CPH1821EX%2520Build%252FQP1A.190711.020%253B%2520wv%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Version%252F4.0%2520Chrome%252F140.0.7339.155%2520Mobile%2520Safari%252F537.36&ads._fw_atts=&ads.playerVersion=8.30.1&ads._fw_is_lat=0&ads._fw_us_privacy=1---&ads.gpp_sid=7&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads._fw_player_width=360&ads._fw_player_height=202&ads.xumo_contentId=3817&ads.xumo_contentName=NBCNLA&ads.xumo_ifaType=&ads.xumo_providerId=3817&ads.xumo_providerName=NBCNLA&ads._fw_site_page=https%253A%252F%252Fwww.nbclosangeles.com%252Fwatch%252F&ads.resp=vmap1&ads.xumo_ifa=&ads._fw_did=&ads.site_name=NBC
@@ -122,7 +122,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="Entertainment",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Channel 4
+#EXTINF:-1 group-title="Entertainment",Channel Four
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8 
 
 #EXTINF:-1 group-title="Entertainment",More4
@@ -130,6 +130,9 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 #EXTINF:-1 group-title="Entertainment",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+
+#EXTINF:-1 group-title="Entertainment",NBC Lx
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:-1 group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
