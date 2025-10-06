@@ -26,7 +26,7 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/250px-Channel_4_Logo_2023.svg.png",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8 
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/400px-More4_logo_2018.svg.png",More4
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://eu-central.storage.cloudconvert.com/tasks/bcdc3f8e-8b8c-4c83-920f-5215234f4721/more4-logo-512.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20251006%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20251006T074640Z&X-Amz-Expires=86400&X-Amz-Signature=f55f49069fc693c612c37b1491dd5383a08a8091444c73e244ba4d4e1e382128&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22more4-logo-512.png%22&response-content-type=image%2Fpng&x-id=GetObject",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/340px-Film4_logo_2018.svg.png",Film4
