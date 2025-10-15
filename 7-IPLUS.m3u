@@ -2,19 +2,19 @@
 
 # =======================================================
 # Playlist Name: 7 IPLUS BY YANAPAT
-# Last Update: 2025-10-08 23:11:10 UTC+07 ICT
+# Last Update: 2025-10-16 00:00:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="002" group-title="Digital TV",NBT 2HD
+#EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1747123505433.png",NBT 2HD
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="003" group-title="Digital TV",Thai PBS HD
+#EXTINF:-1 tvg-chno="003" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-tpbs.png",Thai PBS HD
 https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="004" group-title="Digital TV",ALTV4
+#EXTINF:-1 tvg-chno="004" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-altv4.png",ALTV4
 https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="005" group-title="Digital TV",TV5 HD
+#EXTINF:-1 tvg-chno="005" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch5.png",TV5 HD
 https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="007" group-title="Digital TV",T Sports 7 
@@ -56,7 +56,7 @@ https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="027" group-title="Digital TV",CH8
 https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="029" group-title="Digital TV",MONO29 HD
+#EXTINF:-1 tvg-chno="029" group-title="Digital TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",MONO29 HD
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 tvg-chno="030" group-title="Digital TV",9MCOT HD
@@ -98,17 +98,18 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-chno="042" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-chno="043" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/250px-Channel_4_Logo_2023.svg.png",Channel 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8 
-
-#EXTINF:-1 tvg-chno="044" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/400px-More4_logo_2018.svg.png",More4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
-
-#EXTINF:-1 tvg-chno="045" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/340px-Film4_logo_2018.svg.png",Film4
+#EXTINF:-1 tvg-chno="043" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/340px-Film4_logo_2018.svg.png",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:-1 tvg-chno="046" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/1280px-Channel_5_2025.svg.png",Channel 5
+#EXTINF:-1 tvg-chno="044" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/250px-Channel_4_Logo_2023.svg.png",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+
+
+#EXTINF:-1 tvg-chno="045" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/1280px-Channel_5_2025.svg.png",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+
+#EXTINF:-1 tvg-chno="046" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/400px-More4_logo_2018.svg.png",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 #EXTINF:-1 tvg-chno="047" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1280px-NBC_LX_Home_2023.svg.png",NBC Lx Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
