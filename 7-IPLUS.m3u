@@ -18,7 +18,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 
 #EXTINF:-1 tvg-chno="007" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsports.png",T Sports 7 
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
 #EXTINF:-1 tvg-chno="010" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tptv.png",TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
@@ -80,126 +80,128 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-chno="036" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-pptv.png",PPTV HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 
-#EXTINF:-1 tvg-chno="037" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc2hd.png",BBC Two HD
+#EXTINF:-1 tvg-chno="037" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc2hd.png",BBC Two HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
-#EXTINF:-1 tvg-chno="038" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc3hd.png",BBC Three HD
+#EXTINF:-1 tvg-chno="038" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc3hd.png",BBC Three HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
-#EXTINF:-1 tvg-chno="039" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc4hd.png",BBC Four HD
+#EXTINF:-1 tvg-chno="039" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc4hd.png",BBC Four HD
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
-#EXTINF:-1 tvg-chno="040" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-itv2.png",ITV2
+#EXTINF:-1 tvg-chno="040" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-itv2.png",ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
-#EXTINF:-1 tvg-chno="041" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/500px-ITV3_logo_2022.svg.png",ITV3
+#EXTINF:-1 tvg-chno="041" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-itv3.png",ITV3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 
-#EXTINF:-1 tvg-chno="042" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png",ITV4
+#EXTINF:-1 tvg-chno="042" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-itv4.png",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-chno="043" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/340px-Film4_logo_2018.svg.png",Film4
+#EXTINF:-1 tvg-chno="043" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-film4.png",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:-1 tvg-chno="044" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/250px-Channel_4_Logo_2023.svg.png",Channel 4
+#EXTINF:-1 tvg-chno="044" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-channel4hd.png",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
-
-#EXTINF:-1 tvg-chno="045" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/1280px-Channel_5_2025.svg.png",Channel 5
+#EXTINF:-1 tvg-chno="045" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-channel5.png",Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1 tvg-chno="046" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/400px-More4_logo_2018.svg.png",More4
+#EXTINF:-1 tvg-chno="046" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-more4.png",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
-#EXTINF:-1 tvg-chno="047" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1280px-NBC_LX_Home_2023.svg.png",NBC Lx Home
+#EXTINF:-1 tvg-chno="047" group-title="7 IEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1280px-NBC_LX_Home_2023.svg.png",NBC Lx Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
-#EXTINF:-1 tvg-chno="048" group-title="Entertainment",Channel 8 Thailand
+#EXTINF:-1 tvg-chno="048" group-title="7 IEntertainment",Channel 8 Thailand
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="049" group-title="Entertainment",Cool Channel
+#EXTINF:-1 tvg-chno="049" group-title="7 IEntertainment",Cool Channel
 https://live.cool-channel.com:443/cool/live-720P.m3u8
 
-#EXTINF:-1 tvg-chno="050" group-title="Entertainment",TV5 Monde Asie
+#EXTINF:-1 tvg-chno="050" group-title="7 IEntertainment",TV5 Monde Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
-#EXTINF:-1 tvg-chno="051" group-title="Entertainment",Sony Cine
+#EXTINF:-1 tvg-chno="051" group-title="7 IEntertainment",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="052" group-title="Entertainment",Star Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
-
-#EXTINF:-1 tvg-chno="053" group-title="Entertainment",ไทไชโย
+#EXTINF:-1 tvg-chno="052" group-title="7 IEntertainment",ไทไชโย
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
-#EXTINF:-1 tvg-chno="054" group-title="Entertainment",V2BEAT TV
+#EXTINF:-1 tvg-chno="053" group-title="7 IEntertainment",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="055" group-title="Entertainment",Ditty TV
+#EXTINF:-1 tvg-chno="054" group-title="7 IEntertainment",Ditty TV
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="056" group-title="Entertainment",CMC Music Channel
+#EXTINF:-1  tvg-chno="055" group-title="7 IEntertainment",CMC Music Channel
 https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
-#EXTINF:-1 tvg-chno="057" group-title="Sports",Red Bull TV
+#EXTINF:-1 tvg-chno="056" group-title="7 ISports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-chno="058" group-title="Sports",Trace Sports Star
+#EXTINF:-1 tvg-chno="057" group-title="7 ISports",Trace Sports Star
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="059" group-title="Sports",FIFA+
+#EXTINF:-1 tvg-chno="058" group-title="7 ISports",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="060" group-title="Sports",DAZN Combat HD
+#EXTINF:-1 tvg-chno="059" group-title="7 ISports",DAZN Combat HD
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-chno="061" group-title="Sports",NFL Network HD
+#EXTINF:-1 tvg-chno="060" group-title="7 ISports",NFL Network HD
 https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-chno="062" group-title="News",TOP NEWS
+#EXTINF:-1 tvg-chno="061" group-title="7 INews",TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 tvg-chno="063" group-title="News",NEWS1
+#EXTINF:-1 tvg-chno="062" group-title="7 INews",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 tvg-chno="064" group-title="News",ABC News Live 
+#EXTINF:-1 tvg-chno="063" group-title="7 INews",ABC News Live 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-chno="065" group-title="News",BBC World News
+#EXTINF:-1 tvg-chno="064" group-title="7 INews",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
-#EXTINF:-1 tvg-chno="066" group-title="News",CBS News 24/7 
+#EXTINF:-1 tvg-chno="065" group-title="7 INews",CBS News 24/7 
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-chno="067" group-title="News",CNA
+#EXTINF:-1 tvg-chno="066" group-title="7 INews",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-chno="068" group-title="News",France 24
+#EXTINF:-1 tvg-chno="067" group-title="7 INews",France 24
 https://edge2a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="069" group-title="News",SKY NEWS
+#EXTINF:-1 tvg-chno="068" group-title="7 INews",Sky NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 tvg-chno="070" group-title="News",DW English
+#EXTINF:-1 tvg-chno="069" group-title="7 INews",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="071" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-chno="070" group-title="7 INews",NHK World Japan
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
-#EXTINF:-1 tvg-chno="072" group-title="News",Global News
+#EXTINF:-1 tvg-chno="071" group-title="7 INews",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
-#EXTINF:-1 tvg-chno="073" group-title="News",Bloomberg
+#EXTINF:-1 tvg-chno="072" group-title="7 INews",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-chno="074" group-title="News",AL Jazeera
+#EXTINF:-1 tvg-chno="073" group-title="7 INews",AL Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-chno="075" group-title="News",Russia Today
+#EXTINF:-1 tvg-chno="074" group-title="7 INews",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="076" group-title="News",Fox Weather
+#EXTINF:-1 tvg-chno="075" group-title="7 INews",Fox Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="077" group-title="News",KNBC NEWS
+#EXTINF:-1 tvg-chno="076" group-title="7 INews",KNBC NEWS
 https://d368vp0qqzvkid.cloudfront.net/11603/88889710/hls/master.m3u8?ads.xumo_channelId=88889710a&ads.xumo_streamId=88889710&ads.nw=169843&ads.prof=169843%3Anbcu_ots_web_linear&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.channelName=NBCNLA&ads.csid=nbc_ots_alldevice_allos_web_knbc_livelinear_virtualchannel&ads.caid=NBCNLA&ads.afid=396653454&ads.sfid=23408323&ads.vip=211.218.0.200&ads.vcid=&ads._fw_nielsen_app_id=PE075FB87-C9AE-41D5-8B17-95C0E9301C8E&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Linux%253B%2520Android%252011%253B%2520CPH1821EX%2520Build%252FQP1A.190711.020%253B%2520wv%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Version%252F4.0%2520Chrome%252F140.0.7339.155%2520Mobile%2520Safari%252F537.36&ads._fw_atts=&ads.playerVersion=8.30.1&ads._fw_is_lat=0&ads._fw_us_privacy=1---&ads.gpp_sid=7&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads._fw_player_width=360&ads._fw_player_height=202&ads.xumo_contentId=3817&ads.xumo_contentName=NBCNLA&ads.xumo_ifaType=&ads.xumo_providerId=3817&ads.xumo_providerName=NBCNLA&ads._fw_site_page=https%253A%252F%252Fwww.nbclosangeles.com%252Fwatch%252F&ads.resp=vmap1&ads.xumo_ifa=&ads._fw_did=&ads.site_name=NBC
+
+#EXTINF:-1 tvg-chno="077" group-title="7 IKids" tvg-logo="https://images.livebox.co/images/tv/png/uk-cbbchd.png",CBBC HD
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+
+#EXTINF:-1 tvg-chno="078" group-title="7 IKids" tvg-logo="https://images.livebox.co/images/tv/png/uk-cbeebieshd.png",BBC Four HD
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
