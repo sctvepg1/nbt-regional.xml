@@ -5,7 +5,7 @@
 # Last Update: 2025-10-16 22:57:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1747123505433.png",NBT HD
+#EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-HqtlLFbLUJjH-bnHYlqAWFFBUTSnjvWqImASHMol6SNMIdV19XnO0__&s=10",NBT HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
 #EXTINF:-1 tvg-chno="003" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-tpbs.png",Thai PBS HD
@@ -23,16 +23,16 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 #EXTINF:-1 tvg-chno="010" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tptv.png",TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 
-#EXTINF:-1 tvg-chno="011" group-title="Digital TV",NBT-NORTH
+#EXTINF:-1 tvg-chno="011" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzzn6mCXL-1oqCNh9hhO3LgPeI4iva3ENtnj6QvsYzQ&s=10",NBT-NORTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="012" group-title="Digital TV",NBT-NORTHEAST
+#EXTINF:-1 tvg-chno="012" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
 https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="013" group-title="Digital TV",NBT-CENTRAL
+#EXTINF:-1 tvg-chno="013" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="014" group-title="Digital TV",NBT-SOUTH
+#EXTINF:-1 tvg-chno="014" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="016" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tnn24.png",TNN16
@@ -98,17 +98,17 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 tvg-chno="042" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-itv4.png",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-chno="043" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-film4.png",Film4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-
-#EXTINF:-1 tvg-chno="044" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-channel4hd.png",Channel 4
+#EXTINF:-1 tvg-chno="043" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-channel4hd.png",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
-#EXTINF:-1 tvg-chno="045" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-channel5.png",Channel 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-chno="044" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-film4.png",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
-#EXTINF:-1 tvg-chno="046" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-more4.png",More4
+#EXTINF:-1 tvg-chno="045" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-more4.png",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+
+#EXTINF:-1 tvg-chno="046" group-title="7 IEntertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-channel5.png",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
 #EXTINF:-1 tvg-chno="047" group-title="7 IEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1280px-NBC_LX_Home_2023.svg.png",NBC Lx Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
