@@ -2,26 +2,26 @@
 
 # =======================================================
 # Playlist Name: 7 IPLUS BY YANAPAT
-# Last Update: 2025-10-16 00:00:00 UTC+07 ICT
+# Last Update: 2025-10-16 22:57:00 UTC+07 ICT
 # =======================================================
 
-#EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1747123505433.png",NBT 2HD
-https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1747123505433.png",NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
 #EXTINF:-1 tvg-chno="003" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-tpbs.png",Thai PBS HD
-https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="004" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-altv4.png",ALTV4
-https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="005" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch5.png",TV5 HD
-https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 
-#EXTINF:-1 tvg-chno="007" group-title="Digital TV",T Sports 7 
-https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="007" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsports.png",T Sports 7 
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 
-#EXTINF:-1 tvg-chno="010" group-title="Digital TV",TPTV
-https://edge2a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="010" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tptv.png",TPTV
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 
 #EXTINF:-1 tvg-chno="011" group-title="Digital TV",NBT-NORTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
@@ -35,61 +35,61 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/play
 #EXTINF:-1 tvg-chno="014" group-title="Digital TV",NBT-SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="016" group-title="Digital TV",TNN16
-https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="016" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tnn24.png",TNN16
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 
-#EXTINF:-1 tvg-chno="018" group-title="Digital TV",ช่อง 18
-https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="018" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-jkn18.png",JKN 18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
-#EXTINF:-1 tvg-chno="022" group-title="Digital TV",Nation TV
-https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="022" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-nation.png",Nation TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 
-#EXTINF:-1 tvg-chno="023" group-title="Digital TV",Workpoint TV
-http://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="023" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-workpoint.png",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
-#EXTINF:-1 tvg-chno="024" group-title="Digital TV",True4U
-https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="024" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-24u.png",True4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 
-#EXTINF:-1 tvg-chno="025" group-title="Digital TV",GMM25
-https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="025" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-gmmchannel.png",GMM25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 
-#EXTINF:-1 tvg-chno="027" group-title="Digital TV",CH8
-https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="027" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch8.png",CH8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 
-#EXTINF:-1 tvg-chno="029" group-title="Digital TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",MONO29 HD
+#EXTINF:-1 tvg-chno="029" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-mono.png",MONO29 HD
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
-#EXTINF:-1 tvg-chno="030" group-title="Digital TV",9MCOT HD
-https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="030" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-mcot.png",MCOT HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 
-#EXTINF:-1 tvg-chno="031" group-title="Digital TV",ONE HD
-https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="031" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-gmmone.png",ONE HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 
-#EXTINF:-1 tvg-chno="032" group-title="Digital TV",Thairath TV HD
-https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="032" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-thairath.png",Thairath TV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 
-#EXTINF:-1 tvg-chno="033" group-title="Digital TV",CH3 HD
-https://edge2a.v2h-cdn.com/hd_3/3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="033" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch3.png",CH3 HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 
-#EXTINF:-1 tvg-chno="034" group-title="Digital TV",Amarin 34HD
-http://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="034" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-amarin.png",Amarin 34HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 
-#EXTINF:-1 tvg-chno="035" group-title="Digital TV",CH7 HD
-http://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="035" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch7.png",CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
-#EXTINF:-1 tvg-chno="036" group-title="Digital TV",PPTV HD
-https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="036" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-pptv.png",PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 
-#EXTINF:-1 tvg-chno="037" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png",BBC Two HD
+#EXTINF:-1 tvg-chno="037" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc2hd.png",BBC Two HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
-#EXTINF:-1 tvg-chno="038" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/500px-BBC_Three_2022.svg.png",BBC Three HD & CBBC HD
+#EXTINF:-1 tvg-chno="038" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc3hd.png",BBC Three HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
-#EXTINF:-1 tvg-chno="039" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/500px-BBC_Four_logo_2021.svg.png",BBC Four HD & Cbeebies HD
+#EXTINF:-1 tvg-chno="039" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-bbc4hd.png",BBC Four HD
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
-#EXTINF:-1 tvg-chno="040" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/470px-ITV2_logo_2022.svg.png",ITV2
+#EXTINF:-1 tvg-chno="040" group-title="Entertainment" tvg-logo="https://images.livebox.co/images/tv/png/uk-itv2.png",ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
 #EXTINF:-1 tvg-chno="041" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/500px-ITV3_logo_2022.svg.png",ITV3
