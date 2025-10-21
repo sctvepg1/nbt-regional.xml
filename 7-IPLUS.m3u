@@ -23,67 +23,60 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 #EXTINF:-1 tvg-chno="007" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/24/BBTV_Channel_7.jpg",THAI 7HD
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
+#EXTINF:-1 tvg-chno="008" group-title="Thai Digital TV" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
 #EXTINF:-1 tvg-chno="009" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png",MCOT HD 30
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 
 #EXTINF:-1 tvg-chno="010" group-title="Thai Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tptv.png",ParilamentTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 
-#EXTINF:-1 tvg-chno="011" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzzn6mCXL-1oqCNh9hhO3LgPeI4iva3ENtnj6QvsYzQ&s=10",NBT-NORTH
-https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="012" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
-https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="013" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
-https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="014" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
-https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="016" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tnn24.png",TNN16
+#EXTINF:-1 tvg-chno="016" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tnn24.png",TNN 16 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 
-#EXTINF:-1 tvg-chno="018" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-jkn18.png",JKN 18
+#EXTINF:-1 tvg-chno="018" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-jkn18.png",JKN18
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
 #EXTINF:-1 tvg-chno="022" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-nation.png",NATION TV 22
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 
-#EXTINF:-1 tvg-chno="023" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-workpoint.png",Workpoint TV
+#EXTINF:-1 tvg-chno="023" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-workpoint.png",WORK POINT 23
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
-#EXTINF:-1 tvg-chno="024" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-24u.png",True4U
+#EXTINF:-1 tvg-chno="024" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-24u.png",True4u 24
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 
-#EXTINF:-1 tvg-chno="025" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-gmmchannel.png",GMM25
+#EXTINF:-1 tvg-chno="025" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-gmmchannel.png",GMM25 Channel
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 
-#EXTINF:-1 tvg-chno="027" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch8.png",CH8
+#EXTINF:-1 tvg-chno="027" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.png",Channel 8 กดเลข 27
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png",Boomerang
+#EXTINF:-1 tvg-chno="028" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 tvg-chno="029" group-title="Digital TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",MONO29 HD
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
-#EXTINF:-1 tvg-chno="030" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-mcot.png",MCOT HD
+#EXTINF:-1 tvg-chno="030" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-mcot.png",MCOT HD 30
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 
-#EXTINF:-1 tvg-chno="031" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-gmmone.png",ONE HD
+#EXTINF:-1 tvg-chno="031" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-gmmone.png",GMM ONE HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 
-#EXTINF:-1 tvg-chno="032" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-thairath.png",Thairath TV HD
+#EXTINF:-1 tvg-chno="032" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-thairath.png",Thairath 32
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 
-#EXTINF:-1 tvg-chno="033" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch3.png",CH3 HD
+#EXTINF:-1 tvg-chno="033" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch3.png",THAI 33 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 
-#EXTINF:-1 tvg-chno="034" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-amarin.png",Amarin 34HD
+#EXTINF:-1 tvg-chno="034" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-amarin.png",Amarin TV Thai HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 
-#EXTINF:-1 tvg-chno="035" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch7.png",CH7 HD
+#EXTINF:-1 tvg-chno="035" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch7.png",THAI 7HD
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 #EXTINF:-1 tvg-chno="036" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-pptv.png",PPTV HD
@@ -169,6 +162,18 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 tvg-chno="062" group-title="7 INews",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 tvg-chno="011" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzzn6mCXL-1oqCNh9hhO3LgPeI4iva3ENtnj6QvsYzQ&s=10",NBT-NORTH
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="012" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="013" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="014" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="063" group-title="7 INews",ABC News Live 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
