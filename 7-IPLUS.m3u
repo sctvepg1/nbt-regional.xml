@@ -5,6 +5,27 @@
 # Last Update: 2025-10-16 22:57:00 UTC+07 ICT
 # =======================================================
 
+#EXTINF:-1 tvg-chno="001" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_tv5.png",THAI 5
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+
+#EXTINF:-1 tvg-chno="002" group-title="Thai Digital TV" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/01/NBT-2HD-Logo-2025.png",NBT 2
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
+
+#EXTINF:-1 tvg-chno="003" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thai_PBS_Logo_2016.svg/500px-Thai_PBS_Logo_2016.svg.png",Thai PBS 3 HD
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="004" group-title="Thai Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nSi6Tpmkq1E4yWBR7G-urFbr5GliUX93rWrq4UX-Vw&s",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="005" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.png",THAI 5 HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+
+#EXTINF:-1 tvg-chno="007" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/24/BBTV_Channel_7.jpg",THAI 7HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-chno="009" group-title="Thai Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png",MCOT HD 30
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+
 #EXTINF:-1 tvg-chno="002" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-HqtlLFbLUJjH-bnHYlqAWFFBUTSnjvWqImASHMol6SNMIdV19XnO0__&s=10",NBT HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
@@ -17,7 +38,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="005" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-ch5.png",TV5 HD
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 
-#EXTINF:-1 tvg-chno="007" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsports.png",T Sports 7 
+#EXTINF:-1 tvg-chno="056" group-title="7 ISports" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsports.png",T Sports 7 
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
 #EXTINF:-1 tvg-chno="010" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tptv.png",TPTV
