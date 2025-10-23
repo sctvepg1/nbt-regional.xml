@@ -35,7 +35,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 #EXTINF:-1 tvg-chno="010" group-title="Thai Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tptv.png",ParilamentTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 
-
+#EXTINF:-1 tvg-chno="062" group-title="Thai Digital TV",NEWS1
+https://server1.streamssl.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 tvg-chno="016" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-tnn24.png",TNN 16 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
@@ -169,13 +170,13 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-chno="011" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzzn6mCXL-1oqCNh9hhO3LgPeI4iva3ENtnj6QvsYzQ&s=10",NBT-NORTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="012" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
+#EXTINF:-1 tvg-chno="012" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
 https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="013" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
+#EXTINF:-1 tvg-chno="013" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="014" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
+#EXTINF:-1 tvg-chno="014" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="063" group-title="7 INews",ABC News Live 
@@ -219,6 +220,9 @@ https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 #EXTINF:-1 tvg-chno="076" group-title="7 INews",KNBC NEWS
 https://d368vp0qqzvkid.cloudfront.net/11603/88889710/hls/master.m3u8?ads.xumo_channelId=88889710a&ads.xumo_streamId=88889710&ads.nw=169843&ads.prof=169843%3Anbcu_ots_web_linear&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.channelName=NBCNLA&ads.csid=nbc_ots_alldevice_allos_web_knbc_livelinear_virtualchannel&ads.caid=NBCNLA&ads.afid=396653454&ads.sfid=23408323&ads.vip=211.218.0.200&ads.vcid=&ads._fw_nielsen_app_id=PE075FB87-C9AE-41D5-8B17-95C0E9301C8E&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Linux%253B%2520Android%252011%253B%2520CPH1821EX%2520Build%252FQP1A.190711.020%253B%2520wv%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Version%252F4.0%2520Chrome%252F140.0.7339.155%2520Mobile%2520Safari%252F537.36&ads._fw_atts=&ads.playerVersion=8.30.1&ads._fw_is_lat=0&ads._fw_us_privacy=1---&ads.gpp_sid=7&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads._fw_player_width=360&ads._fw_player_height=202&ads.xumo_contentId=3817&ads.xumo_contentName=NBCNLA&ads.xumo_ifaType=&ads.xumo_providerId=3817&ads.xumo_providerName=NBCNLA&ads._fw_site_page=https%253A%252F%252Fwww.nbclosangeles.com%252Fwatch%252F&ads.resp=vmap1&ads.xumo_ifa=&ads._fw_did=&ads.site_name=NBC
+
+#EXTINF:-1 tvg-chno="028" group-title="7 IKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png",Boomerang
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 tvg-chno="077" group-title="7 IKids" tvg-logo="https://images.livebox.co/images/tv/png/uk-cbbchd.png",CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
