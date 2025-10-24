@@ -41,23 +41,47 @@ https://live.x2.co.th/live/bntv_720p/index.m3u8
 #EXTINF:-1 tvg-chno="012" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.png",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
+#EXTINF:-1 tvg-chno="013" group-title="Thai Digital TV",Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 tvg-chno="014" group-title="Thai Digital TV" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",MVTV
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-chno="015" group-title="Thai Digital TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/15F7FB08-92A3-4376-9096-28697AC18E2F/3-1x1.png",NBC Lx Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
 #EXTINF:-1 tvg-chno="016" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",TNN 16 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+
+#EXTINF:-1 tvg-chno="017" group-title="Thai Digital TV" tvg-logo="https://miro.medium.com/v2/resize:fit:2400/1*oQQ_bfjUTLUTyMyxYo6tUA.jpeg",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
 #EXTINF:-1 tvg-chno="018" group-title="Thai Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/sd-jkn18.png",JKN18
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
-#EXTINF:-1 tvg-chno="022" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png",NATION TV 22
+#EXTINF:-1 tvg-chno="019" group-title="Thai Digital TV",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="020" group-title="Thai Digital TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png",V2H2
+https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8
+
+#EXTINF:-1 tvg-chno="021" group-title="Thai Digital TV" tvg-logo="https://i.imgur.com/tRFnV9M.png",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-chno="022" group-title="Thai Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png",NATION TV 22
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 
-#EXTINF:-1 tvg-chno="023" group-title="Digital TV" tvg-logo="https://www.4baht.com/wp-content/uploads/2016/06/%E0%B8%94%E0%B8%B9%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-workpoint-%E0%B8%AA%E0%B8%94-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%96%E0%B8%B7%E0%B8%AD.jpg",WORK POINT 23
+#EXTINF:-1 tvg-chno="023" group-title="Thai Digital TV" tvg-logo="https://www.4baht.com/wp-content/uploads/2016/06/%E0%B8%94%E0%B8%B9%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-workpoint-%E0%B8%AA%E0%B8%94-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%96%E0%B8%B7%E0%B8%AD.jpg",WORK POINT 23
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
-#EXTINF:-1 tvg-chno="024" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.png",True4u 24
+#EXTINF:-1 tvg-chno="024" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.png",True4u 24
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 
-#EXTINF:-1 tvg-chno="025" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",GMM25 Channel
+#EXTINF:-1 tvg-chno="025" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",GMM25 Channel
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+
+#EXTINF:-1 tvg-chno="026" group-title="Thai Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",BOOM ANIME
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 #EXTINF:-1 tvg-chno="027" group-title="Thai Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.png",Channel 8 กดเลข 27
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
@@ -68,7 +92,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-chno="029" group-title="Digital TV" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png",MONO29 HD
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
-#EXTINF:-1 tvg-chno="030" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-mcot.png",MCOT HD 30
+#EXTINF:-1 tvg-chno="030" group-title="Digital TV" tvg-logo="",MCOT HD 30
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 
 #EXTINF:-1 tvg-chno="031" group-title="Digital TV" tvg-logo="https://images.livebox.co/images/tv/png/hd-gmmone.png",GMM ONE HD
@@ -170,22 +194,25 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-chno="062" group-title="7 INews",NEWS1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 tvg-chno="011" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzzn6mCXL-1oqCNh9hhO3LgPeI4iva3ENtnj6QvsYzQ&s=10",NBT-NORTH
+#EXTINF:-1 tvg-chno="063" group-title="7 INews",Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 tvg-chno="064" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzzn6mCXL-1oqCNh9hhO3LgPeI4iva3ENtnj6QvsYzQ&s=10",NBT-NORTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="012" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
+#EXTINF:-1 tvg-chno="065" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsvm7BZ2Kq4sd8pjs3nexpfqqt4e7NFj3KTAseB9hIDbqjlBxtKitPgA&s=10",NBT-NORTHEAST
 https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="013" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
+#EXTINF:-1 tvg-chno="066" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-TJtlONZi_oiqxlbHg9Vl0pqbSyqVDzKhJHnWI7XCFzFdPhJZq0BiS_Z&s=10",NBT-CENTRAL
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="014" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
+#EXTINF:-1 tvg-chno="067" group-title="7 INews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5mf_z--Shfdbw1qezsWEyxDDcMwPS5S7N97QAdQ8kg&s=10",NBT-SOUTH
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="063" group-title="7 INews",ABC News Live 
+#EXTINF:-1 tvg-chno="068" group-title="7 INews",ABC News Live 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-chno="064" group-title="7 INews",BBC World News
+#EXTINF:-1 tvg-chno="069" group-title="7 INews",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 
 #EXTINF:-1 tvg-chno="065" group-title="7 INews",CBS News 24/7 
